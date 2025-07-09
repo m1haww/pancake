@@ -1,0 +1,1503 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "The Breakfast Club",
+      "description": "Award-winning breakfast restaurant specializing in gourmet pancakes and artisanal coffee",
+      "address": "123 Main Street, Downtown District",
+      "phone": "+1 (555) 123-4567",
+      "website": "https://thebreakfastclub.com",
+      "rating": 4.8,
+      "image": "assets/images/The Breakfast Club.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Classic Buttermilk Pancakes",
+          "description": "Light and fluffy buttermilk pancakes with a golden color",
+          "prepTime": "15 minutes",
+          "cookTime": "10 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Classic Buttermilk Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups buttermilk",
+            "4 tablespoons melted butter"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, buttermilk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Blueberry Pancakes",
+          "description": "Delicious pancakes loaded with fresh blueberries",
+          "prepTime": "20 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Blueberry Pancakes.jpeg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup fresh blueberries"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in blueberries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Maple & Main Bistro",
+      "description": "Cozy neighborhood bistro famous for our farm-to-table breakfast and brunch menu",
+      "address": "456 Oak Avenue, Midtown",
+      "phone": "+1 (555) 987-6543",
+      "website": "https://mapleandmain.com",
+      "rating": 4.6,
+      "image": "assets/images/Maple & Main Bistro.jpg",
+      "recipes": [
+        {
+          "id": "3",
+          "name": "Chocolate Chip Pancakes",
+          "description": "Fluffy pancakes with melted chocolate chips throughout",
+          "prepTime": "15 minutes",
+          "cookTime": "10 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Chocolate Chip Pancakes.jpeg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/2 cup chocolate chips"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in chocolate chips",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Banana Walnut Pancakes",
+          "description": "Hearty pancakes with fresh banana slices and crunchy walnuts",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Banana Walnut Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1/2 teaspoon cinnamon",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "2 ripe bananas, sliced",
+            "1/2 cup chopped walnuts"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in banana slices and walnuts",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sunrise Diner & Grill",
+      "description": "Classic American diner serving hearty breakfast favorites since 1952",
+      "address": "789 Broadway, Historic Quarter",
+      "phone": "+1 (555) 456-7890",
+      "website": "https://sunrisediner.com",
+      "rating": 4.7,
+      "image": "assets/images/Sunrise Diner & Grill.jpg",
+      "recipes": [
+        {
+          "id": "5",
+          "name": "Lemon Ricotta Pancakes",
+          "description": "Light and airy pancakes with creamy ricotta and fresh lemon zest",
+          "prepTime": "25 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Lemon Ricotta Pancakes.jpg",
+          "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "3 eggs, separated",
+            "1 1/4 cups milk",
+            "1/2 cup ricotta cheese",
+            "3 tablespoons melted butter",
+            "Zest of 2 lemons",
+            "2 tablespoons lemon juice"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk egg yolks, milk, ricotta, butter, lemon zest, and juice",
+            "Combine wet and dry ingredients until just mixed",
+            "Beat egg whites until soft peaks form",
+            "Gently fold egg whites into batter",
+            "Heat griddle or pan over medium-low heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip carefully and cook until golden brown"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Strawberry Pancakes",
+          "description": "Fluffy pancakes topped with fresh strawberries and whipped cream",
+          "prepTime": "18 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Strawberry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup fresh strawberries, sliced",
+            "Whipped cream for topping"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Top with fresh strawberries and whipped cream"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Griddle Masters",
+      "description": "Artisan pancake house with creative flavors and premium ingredients",
+      "address": "321 Elm Street, Arts District",
+      "phone": "+1 (555) 234-5678",
+      "website": "https://griddlemasters.com",
+      "rating": 4.9,
+      "image": "assets/images/Griddle Masters.jpg",
+      "recipes": [
+        {
+          "id": "7",
+          "name": "Red Velvet Pancakes",
+          "description": "Decadent red velvet pancakes with cream cheese frosting",
+          "prepTime": "25 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Red Velvet Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 tablespoons cocoa powder",
+            "2 eggs",
+            "1 3/4 cups buttermilk",
+            "4 tablespoons melted butter",
+            "1 tablespoon red food coloring",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, buttermilk, butter, food coloring, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with cream cheese frosting"
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Cinnamon Roll Pancakes",
+          "description": "Pancakes with cinnamon swirl and cream cheese glaze",
+          "prepTime": "30 minutes",
+          "cookTime": "18 minutes",
+          "servings": 4,
+          "difficulty": "Hard",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Cinnamon Roll Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/4 cup brown sugar",
+            "2 teaspoons cinnamon",
+            "Cream cheese glaze"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Make cinnamon swirl with brown sugar and cinnamon",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and swirl cinnamon mixture",
+            "Cook until bubbles form, flip and cook until golden",
+            "Drizzle with cream cheese glaze"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Batter & Berries Cafe",
+      "description": "Fresh, organic ingredients in every dish with a focus on seasonal berries",
+      "address": "567 Pine Avenue, Green Valley",
+      "phone": "+1 (555) 345-6789",
+      "website": "https://batterandberries.com",
+      "rating": 4.5,
+      "image": "assets/images/Batter & Berries Cafe.jpg",
+      "recipes": [
+        {
+          "id": "9",
+          "name": "Mixed Berry Pancakes",
+          "description": "Fluffy pancakes with a medley of fresh berries",
+          "prepTime": "20 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Mixed Berry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/2 cup mixed berries (blueberries, raspberries, blackberries)"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in mixed berries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "10",
+          "name": "Lemon Blueberry Pancakes",
+          "description": "Zesty lemon pancakes bursting with fresh blueberries",
+          "prepTime": "22 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Lemon Blueberry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "Zest of 1 lemon",
+            "2 tablespoons lemon juice",
+            "1 cup fresh blueberries"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, lemon zest, and juice",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in blueberries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Stack House Kitchen",
+      "description": "Modern American kitchen specializing in towering pancake stacks",
+      "address": "890 Market Street, Business District",
+      "phone": "+1 (555) 567-8901",
+      "website": "https://stackhousekitchen.com",
+      "rating": 4.4,
+      "image": "assets/images/Stack House Kitchen.jpg",
+      "recipes": [
+        {
+          "id": "11",
+          "name": "Peanut Butter Pancakes",
+          "description": "Rich pancakes with creamy peanut butter throughout",
+          "prepTime": "18 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Peanut Butter Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "3 tablespoons melted butter",
+            "1/3 cup creamy peanut butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, peanut butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with sliced bananas and syrup"
+          ]
+        },
+        {
+          "id": "12",
+          "name": "Coconut Pancakes",
+          "description": "Tropical pancakes with shredded coconut and coconut milk",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Coconut Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 1/2 cups coconut milk",
+            "4 tablespoons melted butter",
+            "1/2 cup shredded coconut",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, coconut milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in shredded coconut",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "The Pancake Emporium",
+      "description": "Gourmet pancake destination with international flavors and artisanal toppings",
+      "address": "123 Culinary Lane, Foodie District",
+      "phone": "+1 (555) 678-9012",
+      "website": "https://pancakeemporium.com",
+      "rating": 4.8,
+      "image": "assets/images/The Pancake Emporium.jpg",
+      "recipes": [
+        {
+          "id": "13",
+          "name": "Matcha Pancakes",
+          "description": "Japanese-inspired pancakes with premium matcha powder",
+          "prepTime": "22 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Matcha Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 tablespoons matcha powder",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Sift together flour, sugar, baking powder, salt, and matcha",
+            "Whisk eggs, milk, butter, and vanilla in another bowl",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with whipped cream and honey"
+          ]
+        },
+        {
+          "id": "14",
+          "name": "Oreo Pancakes",
+          "description": "Decadent pancakes with crushed Oreo cookies",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Oreo Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup crushed Oreo cookies",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in crushed Oreos",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Fluffy's Family Restaurant",
+      "description": "Family-owned restaurant serving comfort food and fluffy pancakes for three generations",
+      "address": "456 Family Street, Hometown",
+      "phone": "+1 (555) 789-0123",
+      "website": "https://fluffysfamily.com",
+      "rating": 4.6,
+      "image": "assets/images/Fluffy's Family Restaurant.jpg",
+      "recipes": [
+        {
+          "id": "15",
+          "name": "Apple Cinnamon Pancakes",
+          "description": "Warm spiced pancakes with fresh apple pieces",
+          "prepTime": "25 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Apple Cinnamon Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "1/4 teaspoon nutmeg",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 large apple, peeled and diced"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in diced apple",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "16",
+          "name": "Vanilla Bean Pancakes",
+          "description": "Premium pancakes with real vanilla bean specks",
+          "prepTime": "20 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Vanilla Bean Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 vanilla bean, scraped",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, vanilla bean, and extract",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with fresh berries and maple syrup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "The Morning Glory Cafe",
+      "description": "Charming cafe with fresh-baked goods and specialty pancakes made from scratch",
+      "address": "789 Sunrise Boulevard, Riverside",
+      "phone": "+1 (555) 890-1234",
+      "website": "https://morningglory.com",
+      "rating": 4.7,
+      "image": "assets/images/The Morning Glory Cafe.jpg",
+      "recipes": [
+        {
+          "id": "17",
+          "name": "Peach Pancakes",
+          "description": "Seasonal pancakes with fresh peaches and a hint of ginger",
+          "prepTime": "22 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Peach Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1/4 teaspoon ground ginger",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup fresh peaches, sliced"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in sliced peaches",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "18",
+          "name": "Almond Pancakes",
+          "description": "Nutty pancakes with almond flour and sliced almonds",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Almond Pancakes.jpg",
+          "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1/2 cup almond flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon almond extract",
+            "1/4 cup sliced almonds"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and almond extract",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in sliced almonds",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Buttermilk & Co.",
+      "description": "Traditional buttermilk pancakes and southern-style breakfast favorites",
+      "address": "234 Heritage Drive, Old Town",
+      "phone": "+1 (555) 901-2345",
+      "website": "https://buttermilkandco.com",
+      "rating": 4.5,
+      "image": "assets/images/Buttermilk & Co.jpg",
+      "recipes": [
+        {
+          "id": "19",
+          "name": "Sweet Potato Pancakes",
+          "description": "Hearty pancakes with roasted sweet potato and warm spices",
+          "prepTime": "30 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Sweet Potato Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "1/4 teaspoon nutmeg",
+            "2 eggs",
+            "1 1/2 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup mashed sweet potato"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and sweet potato",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with pecans and maple syrup"
+          ]
+        },
+        {
+          "id": "20",
+          "name": "Cornmeal Pancakes",
+          "description": "Rustic pancakes with cornmeal for a delightful crunch",
+          "prepTime": "18 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Cornmeal Pancakes.jpg",
+          "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1/2 cup yellow cornmeal",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with honey and butter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Harvest Moon Breakfast",
+      "description": "Farm-fresh ingredients and seasonal pancakes in a rustic setting",
+      "address": "567 Country Road, Farmland",
+      "phone": "+1 (555) 012-3456",
+      "website": "https://harvestmoon.com",
+      "rating": 4.8,
+      "image": "assets/images/Harvest Moon Breakfast.jpg",
+      "recipes": [
+        {
+          "id": "21",
+          "name": "Pumpkin Spice Pancakes",
+          "description": "Autumn-inspired pancakes with pumpkin puree and warm spices",
+          "prepTime": "25 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Pumpkin Spice Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "1/2 teaspoon nutmeg",
+            "1/4 teaspoon ginger",
+            "2 eggs",
+            "1 1/2 cups milk",
+            "4 tablespoons melted butter",
+            "3/4 cup pumpkin puree"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and pumpkin puree",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with whipped cream and maple syrup"
+          ]
+        },
+        {
+          "id": "22",
+          "name": "Oatmeal Pancakes",
+          "description": "Hearty pancakes made with rolled oats for extra fiber",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Oatmeal Pancakes.jpg",
+          "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1/2 cup rolled oats",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Let batter rest for 5 minutes",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Metropolitan Brunch House",
+      "description": "Upscale brunch destination with innovative pancake creations",
+      "address": "890 City Center Plaza, Downtown",
+      "phone": "+1 (555) 123-4567",
+      "website": "https://metrobrunch.com",
+      "rating": 4.6,
+      "image": "assets/images/Metropolitan Brunch House.jpg",
+      "recipes": [
+        {
+          "id": "23",
+          "name": "Espresso Pancakes",
+          "description": "Coffee-infused pancakes for the ultimate caffeine kick",
+          "prepTime": "22 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Espresso Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 tablespoons instant espresso powder",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients including espresso powder",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with coffee syrup and whipped cream"
+          ]
+        },
+        {
+          "id": "24",
+          "name": "Lavender Honey Pancakes",
+          "description": "Delicate pancakes with culinary lavender and local honey",
+          "prepTime": "25 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Lavender Honey Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon dried culinary lavender",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "3 tablespoons honey",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients including lavender",
+            "Whisk eggs, milk, butter, honey, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with additional honey and fresh berries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Sunny Side Pancake Co.",
+      "description": "Cheerful neighborhood spot known for creative pancake combinations",
+      "address": "345 Sunshine Street, Bright Valley",
+      "phone": "+1 (555) 234-5678",
+      "website": "https://sunnysidepancakes.com",
+      "rating": 4.4,
+      "image": "assets/images/Sunny Side Pancake Co.jpg",
+      "recipes": [
+        {
+          "id": "25",
+          "name": "Orange Cranberry Pancakes",
+          "description": "Citrusy pancakes with tart cranberries and orange zest",
+          "prepTime": "23 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Orange Cranberry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "Zest of 1 orange",
+            "2 tablespoons orange juice",
+            "1/2 cup dried cranberries"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, orange zest, and juice",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in cranberries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "26",
+          "name": "Maple Pecan Pancakes",
+          "description": "Rich pancakes with maple syrup and toasted pecans",
+          "prepTime": "20 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Maple Pecan Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "3 tablespoons maple syrup",
+            "1/2 cup chopped pecans, toasted"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and maple syrup",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in toasted pecans",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "The Flapjack Factory",
+      "description": "Industrial-chic restaurant with made-to-order pancakes and artisanal syrups",
+      "address": "678 Industrial Avenue, Mill District",
+      "phone": "+1 (555) 345-6789",
+      "website": "https://flapjackfactory.com",
+      "rating": 4.7,
+      "image": "assets/images/The Flapjack Factory.jpg",
+      "recipes": [
+        {
+          "id": "27",
+          "name": "Caramel Apple Pancakes",
+          "description": "Decadent pancakes with caramelized apples and caramel sauce",
+          "prepTime": "30 minutes",
+          "cookTime": "18 minutes",
+          "servings": 4,
+          "difficulty": "Hard",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Caramel Apple Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "2 apples, sliced and caramelized",
+            "Caramel sauce for topping"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Top with caramelized apples and caramel sauce"
+          ]
+        },
+        {
+          "id": "28",
+          "name": "Bacon Pancakes",
+          "description": "Savory-sweet pancakes with crispy bacon pieces",
+          "prepTime": "25 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Bacon Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "6 strips bacon, cooked and crumbled",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Cook bacon until crispy, then crumble",
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in crumbled bacon",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Pancake Paradise Diner",
+      "description": "Classic American diner with all-day breakfast and fluffy pancakes",
+      "address": "789 Route 66, Vintage Town",
+      "phone": "+1 (555) 456-7890",
+      "website": "https://pancakeparadise.com",
+      "rating": 4.5,
+      "image": "assets/images/Pancake Paradise Diner.jpg",
+      "recipes": [
+        {
+          "id": "29",
+          "name": "S'mores Pancakes",
+          "description": "Campfire-inspired pancakes with chocolate, marshmallows, and graham crackers",
+          "prepTime": "25 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/S'mores Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/2 cup mini chocolate chips",
+            "1/2 cup mini marshmallows",
+            "1/4 cup crushed graham crackers"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in chocolate chips and marshmallows",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Top with crushed graham crackers"
+          ]
+        },
+        {
+          "id": "30",
+          "name": "Funfetti Pancakes",
+          "description": "Colorful birthday cake-inspired pancakes with sprinkles",
+          "prepTime": "20 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Funfetti Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "2 teaspoons vanilla extract",
+            "1/3 cup rainbow sprinkles"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in sprinkles",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with whipped cream and more sprinkles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Artisan Pancake House",
+      "description": "Handcrafted pancakes with locally sourced ingredients and artisanal presentation",
+      "address": "234 Craft Street, Artist Quarter",
+      "phone": "+1 (555) 567-8901",
+      "website": "https://artisanpancakes.com",
+      "rating": 4.9,
+      "image": "assets/images/Artisan Pancake House.jpg",
+      "recipes": [
+        {
+          "id": "31",
+          "name": "Lemon Poppyseed Pancakes",
+          "description": "Elegant pancakes with bright lemon flavor and poppyseed crunch",
+          "prepTime": "22 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Lemon Poppyseed Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 tablespoons poppy seeds",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "Zest of 2 lemons",
+            "3 tablespoons lemon juice"
+          ],
+          "instructions": [
+            "Mix dry ingredients including poppy seeds",
+            "Whisk eggs, milk, butter, lemon zest, and juice",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with lemon curd and powdered sugar"
+          ]
+        },
+        {
+          "id": "32",
+          "name": "Chai Spiced Pancakes",
+          "description": "Aromatic pancakes with warm chai spices and cardamom",
+          "prepTime": "25 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Chai Spiced Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 teaspoon cinnamon",
+            "1/2 teaspoon cardamom",
+            "1/4 teaspoon ginger",
+            "1/4 teaspoon cloves",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter"
+          ],
+          "instructions": [
+            "Mix dry ingredients and all spices",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with honey and whipped cream"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Golden Skillet Restaurant",
+      "description": "Traditional family restaurant with generous portions and home-style cooking",
+      "address": "567 Main Avenue, Maple Creek",
+      "phone": "+1 (555) 678-9012",
+      "website": "https://goldenskillet.com",
+      "rating": 4.3,
+      "image": "assets/images/Golden Skillet Restaurant.jpg",
+      "recipes": [
+        {
+          "id": "33",
+          "name": "Whole Wheat Pancakes",
+          "description": "Healthy pancakes made with whole wheat flour and natural sweeteners",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Whole Wheat Pancakes.jpg",
+          "ingredients": [
+            "2 cups whole wheat flour",
+            "3 tablespoons honey",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, honey, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with fresh fruit and yogurt"
+          ]
+        },
+        {
+          "id": "34",
+          "name": "Banana Chocolate Chip Pancakes",
+          "description": "Perfect combination of ripe bananas and chocolate chips",
+          "prepTime": "18 minutes",
+          "cookTime": "14 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Banana Chocolate Chip Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "2 ripe bananas, mashed",
+            "1/2 cup chocolate chips"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and mashed bananas",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in chocolate chips",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Sunrise Pancake Cafe",
+      "description": "Early bird special with fresh pancakes served all day in a cozy atmosphere",
+      "address": "890 Dawn Street, Early Rise",
+      "phone": "+1 (555) 789-0123",
+      "website": "https://sunrisepancakes.com",
+      "rating": 4.6,
+      "image": "assets/images/Sunrise Pancake Cafe.jpg",
+      "recipes": [
+        {
+          "id": "35",
+          "name": "Raspberry Pancakes",
+          "description": "Tart and sweet pancakes with fresh raspberries",
+          "prepTime": "20 minutes",
+          "cookTime": "13 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Raspberry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 cup fresh raspberries",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in raspberries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        },
+        {
+          "id": "36",
+          "name": "Buttermilk Blueberry Pancakes",
+          "description": "Classic combination of tangy buttermilk and sweet blueberries",
+          "prepTime": "18 minutes",
+          "cookTime": "12 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Buttermilk Blueberry Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups buttermilk",
+            "4 tablespoons melted butter",
+            "1 cup fresh blueberries"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, buttermilk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Gently fold in blueberries",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "The Pancake Mill",
+      "description": "Historic mill converted to restaurant serving stone-ground flour pancakes",
+      "address": "123 Mill Creek Road, Riverside",
+      "phone": "+1 (555) 890-1234",
+      "website": "https://pancakemill.com",
+      "rating": 4.7,
+      "image": "assets/images/The Pancake Mill.jpg",
+      "recipes": [
+        {
+          "id": "37",
+          "name": "Buckwheat Pancakes",
+          "description": "Rustic pancakes made with stone-ground buckwheat flour",
+          "prepTime": "22 minutes",
+          "cookTime": "16 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Buckwheat Pancakes.jpg",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup buckwheat flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1 teaspoon vanilla extract"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, butter, and vanilla",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Serve with real maple syrup"
+          ]
+        },
+        {
+          "id": "38",
+          "name": "Multigrain Pancakes",
+          "description": "Nutritious pancakes with a blend of whole grains and seeds",
+          "prepTime": "25 minutes",
+          "cookTime": "18 minutes",
+          "servings": 4,
+          "difficulty": "Medium",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Multigrain Pancakes.jpg",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1/2 cup whole wheat flour",
+            "1/4 cup oats",
+            "1/4 cup cornmeal",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "2 tablespoons sunflower seeds"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Fold in sunflower seeds",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Pancake Heaven Restaurant",
+      "description": "Ultimate pancake destination with towering stacks and heavenly flavors",
+      "address": "456 Paradise Lane, Cloud Nine",
+      "phone": "+1 (555) 901-2345",
+      "website": "https://pancakeheaven.com",
+      "rating": 4.8,
+      "image": "assets/images/Pancake Heaven Restaurant.jpg",
+      "recipes": [
+        {
+          "id": "39",
+          "name": "Tiramisu Pancakes",
+          "description": "Italian-inspired pancakes with coffee, mascarpone, and cocoa",
+          "prepTime": "30 minutes",
+          "cookTime": "18 minutes",
+          "servings": 4,
+          "difficulty": "Hard",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Tiramisu Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 tablespoons instant coffee",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/2 cup mascarpone cheese",
+            "Cocoa powder for dusting"
+          ],
+          "instructions": [
+            "Mix dry ingredients including instant coffee",
+            "Whisk eggs, milk, butter, and mascarpone",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Dust with cocoa powder and serve with coffee syrup"
+          ]
+        },
+        {
+          "id": "40",
+          "name": "Nutella Pancakes",
+          "description": "Decadent pancakes swirled with Nutella and topped with hazelnuts",
+          "prepTime": "20 minutes",
+          "cookTime": "15 minutes",
+          "servings": 4,
+          "difficulty": "Easy",
+          "youtubeVideoId": "dQw4w9WgXcQ",
+          "image": "assets/images/Nutella Pancakes.jpg",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 3/4 cups milk",
+            "4 tablespoons melted butter",
+            "1/2 cup Nutella, warmed",
+            "1/4 cup chopped hazelnuts"
+          ],
+          "instructions": [
+            "Mix dry ingredients in a large bowl",
+            "Whisk eggs, milk, and melted butter",
+            "Combine wet and dry ingredients until just mixed",
+            "Heat griddle or pan over medium heat",
+            "Pour batter and swirl in warm Nutella",
+            "Cook until bubbles form on surface",
+            "Flip and cook until golden brown",
+            "Top with chopped hazelnuts"
+          ]
+        }
+      ]
+    }
+  ]
+}
