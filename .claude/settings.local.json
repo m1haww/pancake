@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub run build_runner build:*)",
+      "Bash(flutter pub:*)",
+      "Bash(grep:*)",
+      "Bash(jq:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(pod deintegrate:*)",
+      "Bash(pod install:*)",
+      "Bash(flutter run:*)"
+    ],
+    "deny": []
+  }
+}

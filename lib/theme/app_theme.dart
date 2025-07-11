@@ -6,7 +6,7 @@ class AppColors {
   static const Color accentBrown = Color(0xFFBE6E1C);
   static const Color lightCream = Color(0xFFFFDC8F);
   static const Color secondaryCyan = Color(0xFF48D5DC);
-  
+
   static const Color background = Color(0xFFFFFBF5);
   static const Color surface = Colors.white;
   static const Color onPrimary = Colors.white;
@@ -30,7 +30,6 @@ class AppTheme {
         onBackground: AppColors.onBackground,
         onSurface: AppColors.onSurface,
       ),
-      
       appBarTheme: AppBarTheme(
         backgroundColor: AppColors.primaryCyan,
         foregroundColor: AppColors.onPrimary,
@@ -42,63 +41,60 @@ class AppTheme {
           fontWeight: FontWeight.bold,
         ),
       ),
-      
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           backgroundColor: AppColors.primaryBrown,
           foregroundColor: AppColors.onPrimary,
           padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(8),
-          ),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
         ),
       ),
-      
       cardTheme: CardThemeData(
         color: AppColors.surface,
         elevation: 4,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
-        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       ),
-      
       inputDecorationTheme: InputDecorationTheme(
         filled: true,
-        fillColor: AppColors.lightCream.withOpacity(0.3),
+        fillColor: AppColors.lightCream.withValues(alpha: 0.3),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
           borderSide: BorderSide(color: AppColors.accentBrown),
         ),
         enabledBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
-          borderSide: BorderSide(color: AppColors.accentBrown.withOpacity(0.5)),
+          borderSide: BorderSide(color: AppColors.accentBrown.withValues(alpha: 0.5)),
         ),
         focusedBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(8),
           borderSide: BorderSide(color: AppColors.primaryCyan, width: 2),
         ),
       ),
-      
       textTheme: TextTheme(
         headlineLarge: TextStyle(
           color: AppColors.primaryBrown,
           fontSize: 32,
           fontWeight: FontWeight.bold,
+          fontFamily: 'Gabarito',
         ),
         headlineMedium: TextStyle(
           color: AppColors.primaryBrown,
           fontSize: 24,
           fontWeight: FontWeight.bold,
+          fontFamily: 'Gabarito',
         ),
         bodyLarge: TextStyle(
           color: AppColors.onBackground,
           fontSize: 16,
+          fontFamily: 'Gabarito',
         ),
         bodyMedium: TextStyle(
           color: AppColors.onBackground,
           fontSize: 14,
+          fontFamily: 'Gabarito',
         ),
       ),
+      fontFamily: 'Gabarito',
     );
   }
 }

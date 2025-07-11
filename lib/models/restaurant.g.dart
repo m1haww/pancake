@@ -15,9 +15,12 @@ Restaurant _$RestaurantFromJson(Map<String, dynamic> json) => Restaurant(
   website: json['website'] as String,
   rating: (json['rating'] as num).toDouble(),
   image: json['image'] as String,
-  recipes: (json['recipes'] as List<dynamic>)
-      .map((e) => Recipe.fromJson(e as Map<String, dynamic>))
-      .toList(),
+  recipes:
+      (json['recipes'] as List<dynamic>)
+          .map((e) => Recipe.fromJson(e as Map<String, dynamic>))
+          .toList(),
+  latitude: (json['latitude'] as num).toDouble(),
+  longitude: (json['longitude'] as num).toDouble(),
 );
 
 Map<String, dynamic> _$RestaurantToJson(Restaurant instance) =>
@@ -31,4 +34,6 @@ Map<String, dynamic> _$RestaurantToJson(Restaurant instance) =>
       'rating': instance.rating,
       'image': instance.image,
       'recipes': instance.recipes,
+      'latitude': instance.latitude,
+      'longitude': instance.longitude,
     };

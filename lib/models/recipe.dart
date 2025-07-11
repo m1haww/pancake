@@ -15,6 +15,9 @@ class Recipe {
   final String? image;
   final List<String> ingredients;
   final List<String> instructions;
+  final double? rating;
+  final int? calories;
+  final int? cookingTime;
 
   Recipe({
     required this.id,
@@ -28,6 +31,9 @@ class Recipe {
     this.image,
     required this.ingredients,
     required this.instructions,
+    this.rating,
+    this.calories,
+    this.cookingTime,
   });
 
   factory Recipe.fromJson(Map<String, dynamic> json) => _$RecipeFromJson(json);

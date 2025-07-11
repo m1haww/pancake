@@ -14,6 +14,8 @@ class Restaurant {
   final double rating;
   final String image;
   final List<Recipe> recipes;
+  final double latitude;
+  final double longitude;
 
   Restaurant({
     required this.id,
@@ -25,6 +27,8 @@ class Restaurant {
     required this.rating,
     required this.image,
     required this.recipes,
+    required this.latitude,
+    required this.longitude,
   });
 
   factory Restaurant.fromJson(Map<String, dynamic> json) => _$RestaurantFromJson(json);
