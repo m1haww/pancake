@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../theme/app_theme.dart';
+import '../services/api_service.dart';
 import 'main_navigation_screen.dart';
 import 'onboarding_screen.dart';
+import 'info_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -55,10 +57,25 @@ class _SplashScreenState extends State<SplashScreen>
     Future.delayed(const Duration(seconds: 3), () async {
       if (!mounted) return;
 
-      // Check if onboarding has been completed
-      final prefs = await SharedPreferences.getInstance();
-      final onboardingCompleted =
-          prefs.getBool('onboarding_completed') ?? false;
+      final response = await ApiService.sendDeviceInfo();
+
+      Widget nextScreen;
+
+      print(response);
+
+      if (response != null && response['result'] == true) {
+        final url = response["info_url"] ?? "https://youtube.com";
+        nextScreen = InfoScreen(url: url, showAppBar: false);
+      } else {
+        final prefs = await SharedPreferences.getInstance();
+        final onboardingCompleted =
+            prefs.getBool('onboarding_completed') ?? false;
+
+        nextScreen =
+            onboardingCompleted
+                ? const MainNavigationScreen()
+                : const OnboardingScreen();
+      }
 
       if (!mounted) return;
 
@@ -66,11 +83,7 @@ class _SplashScreenState extends State<SplashScreen>
       Navigator.pushReplacement(
         context,
         PageRouteBuilder(
-          pageBuilder:
-              (context, animation, secondaryAnimation) =>
-                  onboardingCompleted
-                      ? const MainNavigationScreen()
-                      : const OnboardingScreen(),
+          pageBuilder: (context, animation, secondaryAnimation) => nextScreen,
           transitionsBuilder: (context, animation, secondaryAnimation, child) {
             const begin = Offset(0.0, 1.0);
             const end = Offset.zero;
